@@ -137,3 +137,4 @@ cython_debug/
 
 # File including bot's token
 Token.py
+Angel_Bot_key.pem

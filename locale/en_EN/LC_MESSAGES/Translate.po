@@ -2,17 +2,32 @@ msgid ""
 msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "Hello! This is a telegram bot of the Search And Rescue Squad \"Angel\". Search And Rescue Squad \"Angel\" is the first voluntary movement in the Republic of Belarus to assist in the search for missing people. How can we help you?"
-msgstr ""
+msgid "Hello! This is a telegram bot of the Search And Rescue Squad \"Angel\". Search And Rescue Squad \"Angel\" is the first voluntary movement in the Republic of Belarus to assist in the search for missing people. How can we help you? Choose from the options provided. If you haven't found your option, just write to us. We will definitely answer"
+msgstr "Hello! This is a telegram bot of the Search And Rescue Squad \"Angel\". Search And Rescue Squad \"Angel\" is the first voluntary movement in the Republic of Belarus to assist in the search for missing people. How can we help you? Choose from the options provided. If you haven't found your option, just write to us. We will definitely answer"
 
 msgid "If a person is missing, the first step is to call the Accident Registration Bureau (see phone numbers below). All information flows here every day from the duty units, sobering-up centers, hospitals and morgues, and is entered into a single database. It contains information about persons detained by the internal affairs bodies and persons taken to medical institutions who are unable to provide information about themselves, as well as information about the discovery of unknown corpses. You need to tell the operator in detail about what happened. There you will be given information about all accidents and accidents that have occurred over the past day. The fact of possible hospitalization of the missing person by the ambulance service should be checked."
-msgstr ""
+msgstr "If a person is missing, the first step is to call the Accident Registration Bureau (see phone numbers below). All information flows here every day from the duty units, sobering-up centers, hospitals and morgues, and is entered into a single database. It contains information about persons detained by the internal affairs bodies and persons taken to medical institutions who are unable to provide information about themselves, as well as information about the discovery of unknown corpses. You need to tell the operator in detail about what happened. There you will be given information about all accidents and accidents that have occurred over the past day. The fact of possible hospitalization of the missing person by the ambulance service should be checked."
 
 msgid "Call any of the numbers listed in the orientation."
-msgstr ""
+msgstr "Call any of the numbers listed in the orientation."
 
 msgid "You can personally help in finding the missing person by:\n- disseminating information on the Internet;\n- pasting orientation and interviewing passers-by;\n- departure for urban and forest searches;\n- and others.\nEach person, regardless of which city he is in, can provide significant assistance. Everyone is dear to us!"
-msgstr ""
+msgstr "You can personally help in finding the missing person by:\n- disseminating information on the Internet;\n- pasting orientation and interviewing passers-by;\n- departure for urban and forest searches;\n- and others.\nEach person, regardless of which city he is in, can provide significant assistance. Everyone is dear to us!"
 
-msgid "How can you support the \"Angel\"?\nWith the help of donations!\n☎ USSD request for MTSsubscribers, A1 and life:) - *222*13#!\n💳 by transfer from a bank card (there is also a subscription to monthly transfers) https://imenamag.by/projects/26988691 \n📥 Electronic payments (ERIP) service code 4345671\n☎ replenishment of detachment mobile phones +375(33)6666-856, +375(33)6666-033"
-msgstr ""
+msgid "How can you support the \"Angel\"?\nWith the help of donations!\n☎ USSD request for MTS subscribers, A1 and life:) - *222*13#!\n💳 by transfer from a bank card (there is also a subscription to monthly transfers) https://imenamag.by/projects/26988691 \n📥 Electronic payments (ERIP) service code 4345671\n☎ replenishment of detachment mobile phones +375(33)6666-856, +375(33)6666-033"
+msgstr "How can you support the \"Angel\"?\nWith the help of donations!\n☎ USSD request for MTS subscribers, A1 and life:) - *222*13#!\n💳 by transfer from a bank card (there is also a subscription to monthly transfers) https://imenamag.by/projects/26988691 \n📥 Electronic payments (ERIP) service code 4345671\n☎ replenishment of detachment mobile phones +375(33)6666-856, +375(33)6666-033"
+
+msgid "The person is missing"
+msgstr "The person is missing"
+
+msgid "The person is found"
+msgstr "The person is found"
+
+msgid "I want to become a volunteer"
+msgstr "I want to become a volunteer"
+
+msgid "Donate"
+msgstr "Donate"
+
+msgid "Your message has been accepted. We will contact you as soon as possible"
+msgstr "Your message has been accepted. We will contact you as soon as possible"
