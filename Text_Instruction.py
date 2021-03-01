@@ -14,8 +14,8 @@ welcome = _('Hello! This is a telegram bot of the Search And Rescue Squad "Angel
             'options provided. If you haven\'t found your option, just write to us. We will ' \
             'definitely answer')
 
-missing = _('If a person is missing, the first step is to call the Accident Registration Bureau ' \
-            '(see phone numbers below). All information flows here every day from the duty units, ' \
+missing = _('If a person is missing, the first step is to call the Accident Registration Bureau. ' \
+            'All information flows here every day from the duty units, ' \
             'sobering-up centers, hospitals and morgues, and is entered into a single database. ' \
             'It contains information about persons detained by the internal affairs bodies and ' \
             'persons taken to medical institutions who are unable to provide information about ' \
