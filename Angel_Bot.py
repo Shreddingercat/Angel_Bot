@@ -40,7 +40,7 @@ def callback_worker(call):
         bot.send_message(call.message.chat.id, text=found_instruction, reply_markup=keyboard)
     elif call.data == 'volunteer':
         bot.send_message(call.message.chat.id, text=volunteer_instruction, reply_markup=keyboard)
-    elif call.data == 'donate':
-        bot.send_message(call.message.chat.id, text=donate_instruction, reply_markup=keyboard)
+#    elif call.data == 'donate':
+#        bot.send_message(call.message.chat.id, text=donate_instruction, reply_markup=keyboard)
 
 bot.polling(none_stop=True, interval=0)
