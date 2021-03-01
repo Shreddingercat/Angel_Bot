@@ -4,7 +4,7 @@
 import gettext
 gettext.bindtextdomain("Text_Instructions", "/locale")
 gettext.textdomain("Text_Instructions")
-t = gettext.translation("Translate", localedir="locale", languages=['ru_RU', 'en_EN'])
+t = gettext.translation("Translate", localedir="locale", languages=['ru_RU'])
 t.install()
 _ = t.gettext
 
