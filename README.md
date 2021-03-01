@@ -15,6 +15,10 @@ To work correctly with the source code, you need to install the following compon
 - library *gettext*
 - library *pytelegrambotapi*
 
+## Links
+
+You can see how the bot works by following the [link](https://www.t.me/angel_belarus_bot)
+
 ## Author
 
 - [Artsiom Bryl](https://www.linkedin.com/in/artsiom-bryl-885026203/).
